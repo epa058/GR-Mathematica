@@ -1,4 +1,3 @@
-
 # GR Mathematica
 
 This project presents a simple Mathematica program designed to automate important calculations in differential geometry and general relativity. The Mathematica code features a user-friendly interface that accepts any arbitrary metric tensor and efficiently computes and outputs the following:
@@ -8,3 +7,5 @@ This project presents a simple Mathematica program designed to automate importan
 - Ricci Scalar
 - Einstein Tensor
 - Geodesic Equations
+
+This package was originally developed for my class in general relativity (PHYS 514), where it proved to be an invaluable tool, helping me with assignments.
