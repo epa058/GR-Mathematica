@@ -5,7 +5,7 @@ This project presents a simple Mathematica program designed to automate importan
 - Riemann Curvature Tensor
 - Ricci Tensor
 - Ricci Scalar
-- Einstein Tensor
+- Einstein Tensor (with optional cosmological constant)
 - Geodesic Equations
 
 This package was originally developed for a class in general relativity (PHYS 514 at McGill University), where it proved to be a useful tool, helping me with assignments.
